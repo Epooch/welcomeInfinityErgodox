@@ -1,4 +1,5 @@
 DCS profile by rows
+
 ![DCS profile by rows](/images/DCS-RowAngle.png)
 
 Infinity ErgoDox OEM/Stock Keycap set
@@ -13,7 +14,8 @@ Infinity ErgoDox OEM/Stock Keycap set
 4 – Row 2 – 2u
 
 DCS row placement for ergodox
-![DCS row placement for ergodoc](/images/DCS-RowPlacment.png)
+
+![DCS row placement for ergodoc](/images/DCS-RowPlacement.png)
 
 Note: You may want to try replacing the 10 lowest row 4 keys with the convex versions.
 
