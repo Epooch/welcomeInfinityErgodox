@@ -1,3 +1,6 @@
+#What is DCS?
+"DCS" denotes DIN standard height(D), cylindrical touch area(C), and sculptured keycap profile(S).
+
 #DCS profile by rows
 
 ![DCS profile by rows](/images/DCS-RowAngle.png)
