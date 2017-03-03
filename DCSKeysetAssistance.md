@@ -1,11 +1,16 @@
-#What is DCS?
+#Brief intro into DCS
+
+##What is DCS?
 "DCS" denotes DIN standard height(D), cylindrical touch area(C), and sculptured keycap profile(S).
 
-#DCS profile by rows
+##How does DCS compare to other profiles?
+![DCS profile comparison](/images/DCS-RowComparison.png)
+
+##DCS profile by rows
 
 ![DCS profile by rows](/images/DCS-RowAngle.png)
 
-#Infinity ErgoDox OEM/Stock Keycap set
+##Infinity ErgoDox OEM/Stock Keycap set
 
 Req Amount | Row Key Angle | Expected key size
 ------------ | ------------- | -------------
@@ -20,7 +25,7 @@ Req Amount | Row Key Angle | Expected key size
 4 | Row 2 | 2u
 
 
-#DCS row placement for ergodox
+##DCS row placement for ergodox
 
 ![DCS row placement for ergodoc](/images/DCS-RowPlacement.png)
 
