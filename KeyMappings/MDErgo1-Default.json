@@ -354,6 +354,10 @@
                 "2": {
                     "key": "PREV LAYER",
                     "label": "PREV-\u0192"
+                },
+                "3": {
+                    "key": "PREV LAYER",
+                    "label": "PREV-\u0192"
                 }
             }
         },
@@ -940,6 +944,10 @@
                     "label": "NEXT-\u0192"
                 },
                 "2": {
+                    "key": "NEXT LAYER",
+                    "label": "NEXT-\u0192"
+                },
+                "3": {
                     "key": "NEXT LAYER",
                     "label": "NEXT-\u0192"
                 }
